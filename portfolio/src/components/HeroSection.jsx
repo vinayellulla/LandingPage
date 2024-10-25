@@ -10,7 +10,7 @@ function HeroSection() {
         <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide ">
           Iam Vinay Kumar Ellulla{" "}
           <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">
-            This is a Landing page for Practice
+            This is a Landing page 
           </span>
         </h1>
         <p className=" container mx-auto mt-10 text-lg text-center text-neutral-500 max-w-4xl">
